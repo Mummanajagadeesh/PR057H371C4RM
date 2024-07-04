@@ -19,7 +19,7 @@ The PR057H371C4RM (Prosthetic Arm) project is a simpler mechanical replacement f
 - User feedback and iteration. [00]
 
 ## Contributions
-Contributions to improve the PR057H371C-4RM are welcome. Please submit pull requests with detailed descriptions of changes.
+Contributions to improve the PR057H371C4RM are welcome. Please submit pull requests with detailed descriptions of changes.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
