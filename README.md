@@ -1,8 +1,8 @@
-# PR057H371C-4RM
+# PR057H371C4RM
 
 ## Overview
 
-The PR057H371C-4RM (Prosthetic Arm) project is a simpler mechanical replacement for a lost limb, designed primarily to restore basic functionality.
+The PR057H371C4RM (Prosthetic Arm) project is a simpler mechanical replacement for a lost limb, designed primarily to restore basic functionality.
 
 ## Goals
 
