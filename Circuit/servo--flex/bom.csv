@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R1, R6, R5, R4, R3",5," Flex Sensor"
+"R2, R7, R8, R9, R10",5,"1 kΩ Resistor"
+"SERVO1, SERVO5, SERVO4, SERVO2, SERVO3",5,"Positional Micro Servo"
