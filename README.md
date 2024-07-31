@@ -3,7 +3,7 @@
 [🔗Robu](https://robu.in/product/3d-printing-service/)
 
 ## Demo Video --latest_prototype
-[![Watch the video](https://img.youtube.com/vi/mATUY7Tn4Is/0.jpg)](https://studio.youtube.com/video/mATUY7Tn4Is)
+[![YouTube Video](https://img.youtube.com/vi/mATUY7Tn4Is/0.jpg)](https://youtu.be/mATUY7Tn4Is)
 
 Refer [Project-Archiver](https://github.com/Mummanajagadeesh/Project-Archiver) for bulk export addons
 
