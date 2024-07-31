@@ -4,6 +4,7 @@
 
 ## Demo Video --latest_prototype
 [![YouTube Video](https://img.youtube.com/vi/mATUY7Tn4Is/0.jpg)](https://youtu.be/mATUY7Tn4Is)
+[![YouTube Video](https://img.youtube.com/vi/IqjxZRdiDbM/0.jpg)](https://youtu.be/IqjxZRdiDbM)
 
 Refer [Project-Archiver](https://github.com/Mummanajagadeesh/Project-Archiver) for bulk export addons
 
