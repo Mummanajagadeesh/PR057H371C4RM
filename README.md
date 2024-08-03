@@ -7,8 +7,11 @@ Credit for SG90 CAD files: https://grabcad.com/library/sg90-micro-servo-9g-tower
 Project inspiration: https://www.youtube.com/@WillCogley
 
 ## Demo Video --latest_prototype
-[![YouTube Video](https://img.youtube.com/vi/mATUY7Tn4Is/0.jpg)](https://youtu.be/mATUY7Tn4Is)
-[![YouTube Video](https://img.youtube.com/vi/IqjxZRdiDbM/0.jpg)](https://youtu.be/IqjxZRdiDbM)
+
+| Motion Study | Assembly |
+|--------------|----------|
+| [![YouTube Video](https://img.youtube.com/vi/mATUY7Tn4Is/0.jpg)](https://youtu.be/mATUY7Tn4Is) | [![YouTube Video](https://img.youtube.com/vi/IqjxZRdiDbM/0.jpg)](https://youtu.be/IqjxZRdiDbM) |
+
 
 ![front-view](Screenshots/F-view.png)
 Refer [Project-Archiver](https://github.com/Mummanajagadeesh/Project-Archiver) for bulk export addons
