@@ -4,6 +4,8 @@
 
 Credit for SG90 CAD files: https://grabcad.com/library/sg90-micro-servo-9g-tower-pro-1
 
+Credit for Arduino UNO CAD files : https://grabcad.com/library/arduino-uno-r3-1
+
 Project inspiration: https://www.youtube.com/@WillCogley
 
 ## Demo Video --latest_prototype
@@ -14,6 +16,7 @@ Project inspiration: https://www.youtube.com/@WillCogley
 
 
 ![front-view](Screenshots/F-view.png)
+![full-arm](Screenshots/full-arm.png)
 Refer [Project-Archiver](https://github.com/Mummanajagadeesh/Project-Archiver) for bulk export addons
 
 ## Overview
